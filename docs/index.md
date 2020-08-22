@@ -1,4 +1,4 @@
-# Privacy Policy
+# rawbytz Privacy Policy
 
 Software products never collect, transmit, store, or share any user data, EVER. 
 
